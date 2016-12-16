@@ -5,6 +5,7 @@ from threading import Thread
 
 from utils import log_it
 
+# this is a git test  
 
 class Worker(Thread):
     """Thread executing tasks from a given tasks queue"""
